@@ -1,1 +1,1 @@
-This is Power Bi Projects
+I carried out a thorough descriptive data analysis with a focus on the expansive ecommerce ecosystem for the Power BI project. The task included combining information from many establishments, each of which sold a wide variety of goods. I identified complex patterns and trends in the ecommerce data using detailed visualization and statistical analysis. The final report gave businesses a greater knowledge of their sales performance, consumer behavior and product preferences across a variety of outlets and goods. It offered priceless insights.
